@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: sachinbca43@gmail.com
 -  Know about my SQL Problem Solving: https://leetcode.com/u/sachinchouhan/
-- 👯 I’m looking to collaborate on https://www.linkedin.com/in/sachinchouhan/
+- 👯 I’m looking to collaborate on [https://www.linkedin.com/in/sachinchouhan/](https://www.linkedin.com/feed/)
 <!--
 **sachi21/sachi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
